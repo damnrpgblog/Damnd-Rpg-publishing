@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Damn RPG publishing",
+    "description": "",
+    "home_page_url": "https://eleven11spiders.github.io/Damnd-Rpg-publishing",
+    "feed_url": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Evgeniy Ryzhenkov"
+    },
+    "items": [
+        {
+            "id": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/greywolf-alfa-is-out.html",
+            "url": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/greywolf-alfa-is-out.html",
+            "title": "Greywolf alfa is out!",
+            "summary": "Вышел SRD нашей приключенческой системы Greywolf.",
+            "content_html": "<p>Вышел SRD нашей приключенческой системы Greywolf.</p>",
+            "author": {
+                "name": "Evgeniy Ryzhenkov"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-06T00:41:29+05:00",
+            "date_modified": "2022-12-06T00:41:29+05:00"
+        }
+    ]
+}

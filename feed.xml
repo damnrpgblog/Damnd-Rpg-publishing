@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Damn RPG publishing</title>
+    <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing/feed.xml" rel="self" />
+    <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing" />
+    <updated>2022-12-06T00:41:29+05:00</updated>
+    <author>
+        <name>Evgeniy Ryzhenkov</name>
+    </author>
+    <id>https://eleven11spiders.github.io/Damnd-Rpg-publishing</id>
+
+    <entry>
+        <title>Greywolf alfa is out!</title>
+        <author>
+            <name>Evgeniy Ryzhenkov</name>
+        </author>
+        <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing/greywolf-alfa-is-out.html"/>
+        <id>https://eleven11spiders.github.io/Damnd-Rpg-publishing/greywolf-alfa-is-out.html</id>
+
+        <updated>2022-12-06T00:41:29+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Вышел SRD нашей приключенческой системы Greywolf.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Вышел SRD нашей приключенческой системы Greywolf.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
