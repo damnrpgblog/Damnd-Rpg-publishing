@@ -3,12 +3,29 @@
     <title>Damn RPG publishing</title>
     <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing/feed.xml" rel="self" />
     <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing" />
-    <updated>2022-12-06T00:41:29+05:00</updated>
+    <updated>2022-12-13T17:55:29+05:00</updated>
     <author>
         <name>Ernest</name>
     </author>
     <id>https://eleven11spiders.github.io/Damnd-Rpg-publishing</id>
 
+    <entry>
+        <title>Get game</title>
+        <author>
+            <name>Ernest</name>
+        </author>
+        <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing/get-game.html"/>
+        <id>https://eleven11spiders.github.io/Damnd-Rpg-publishing/get-game.html</id>
+
+        <updated>2022-12-13T17:55:29+05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p><figure class="post__image"><img loading="lazy" src="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/sheet1.png" alt="Beta Character sheet" width="420" height="595"  sizes="100vw" srcset="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-xs.png 300w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-sm.png 480w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-md.png 768w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-lg.png 1024w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-xl.png 1360w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-2xl.png 1600w"></figure></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Greywolf alfa is out!</title>
         <author>

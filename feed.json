@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/get-game.html",
+            "url": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/get-game.html",
+            "title": "Get game",
+            "content_html": "<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/sheet1.png\" alt=\"Beta Character sheet\" width=\"420\" height=\"595\"  sizes=\"100vw\" srcset=\"https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-xs.png 300w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-sm.png 480w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-md.png 768w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-lg.png 1024w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-xl.png 1360w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/2/responsive/sheet1-2xl.png 1600w\"></figure></p>\n",
+            "author": {
+                "name": "Ernest"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-13T17:55:29+05:00",
+            "date_modified": "2022-12-13T17:55:29+05:00"
+        },
+        {
             "id": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/greywolf-alfa-is-out.html",
             "url": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/greywolf-alfa-is-out.html",
             "title": "Greywolf alfa is out!",
