@@ -3,12 +3,32 @@
     <title>Damn RPG publishing</title>
     <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing/feed.xml" rel="self" />
     <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing" />
-    <updated>2022-12-13T18:26:34+05:00</updated>
+    <updated>2022-12-13T21:55:35+05:00</updated>
     <author>
         <name>Ernest</name>
     </author>
     <id>https://eleven11spiders.github.io/Damnd-Rpg-publishing</id>
 
+    <entry>
+        <title>Ilustaration example</title>
+        <author>
+            <name>Ernest</name>
+        </author>
+        <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing/ilustaration-example.html"/>
+        <id>https://eleven11spiders.github.io/Damnd-Rpg-publishing/ilustaration-example.html</id>
+
+        <updated>2022-12-13T21:55:35+05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/woman.png" height="745" width="527" alt=""  sizes="100vw" srcset="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-xs.png 300w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-sm.png 480w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-md.png 768w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-lg.png 1024w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-xl.png 1360w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-2xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Character sheet</title>
         <author>

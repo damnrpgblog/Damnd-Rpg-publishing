@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/ilustaration-example.html",
+            "url": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/ilustaration-example.html",
+            "title": "Ilustaration example",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/woman.png\" height=\"745\" width=\"527\" alt=\"\"  sizes=\"100vw\" srcset=\"https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-xs.png 300w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-sm.png 480w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-md.png 768w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-lg.png 1024w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-xl.png 1360w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/4/responsive/woman-2xl.png 1600w\">\n      \n    </figure>",
+            "author": {
+                "name": "Ernest"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-13T21:55:35+05:00",
+            "date_modified": "2022-12-13T21:55:35+05:00"
+        },
+        {
             "id": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/character-sheet.html",
             "url": "https://eleven11spiders.github.io/Damnd-Rpg-publishing/character-sheet.html",
             "title": "Character sheet",
