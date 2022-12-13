@@ -3,7 +3,7 @@
     <title>Damn RPG publishing</title>
     <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing/feed.xml" rel="self" />
     <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing" />
-    <updated>2022-12-13T18:10:26+05:00</updated>
+    <updated>2022-12-13T18:26:34+05:00</updated>
     <author>
         <name>Ernest</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://eleven11spiders.github.io/Damnd-Rpg-publishing/character-sheet.html"/>
         <id>https://eleven11spiders.github.io/Damnd-Rpg-publishing/character-sheet.html</id>
+        <media:content url="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/Bezymyannyy.png" medium="image" />
 
-        <updated>2022-12-13T18:10:26+05:00</updated>
+        <updated>2022-12-13T18:26:34+05:00</updated>
             <summary>
                 <![CDATA[
-                    First version of Greywolf RPG character sheet available.&nbsp;You can download the sheet in English and Russian on this page. English version Russian version
+                        <img src="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/Bezymyannyy.png" alt="" />
+                    First version of Greywolf RPG character sheet available.&nbsp;You can download the sheet in English and Russian on this page. Download: Name Language Version Link Greywolf character sheet English 0.1 Download Greywolf character sheet Russian 0.1 Russian version
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/Bezymyannyy.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     First version of Greywolf RPG character sheet available.&nbsp;You can download the sheet in English and Russian on this page.
@@ -34,12 +37,31 @@
       <img loading="lazy" src="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/sheet-eng-png.png" height="595" width="420" alt=""  sizes="100vw" srcset="https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/responsive/sheet-eng-png-xs.png 300w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/responsive/sheet-eng-png-sm.png 480w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/responsive/sheet-eng-png-md.png 768w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/responsive/sheet-eng-png-lg.png 1024w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/responsive/sheet-eng-png-xl.png 1360w ,https://eleven11spiders.github.io/Damnd-Rpg-publishing/media/posts/3/responsive/sheet-eng-png-2xl.png 1600w">
       
     </figure>
-<div>  <p><a href="https://raw.githack.com/Eleven11Spiders/Damnd-Rpg-publishing/main/downloadings/sheet1.pdf">English version</a></p>
-  <p><a href="https://raw.githack.com/Eleven11Spiders/Damnd-Rpg-publishing/main/downloadings/sheet1.pdf">Russian version</a></p></div>
 
-  <p>
-    
-  </p>
+    <h2 id="download">
+      Download:
+    </h2>
+<div>  <table>
+  <tr>
+    <th>Name</th>
+    <th>Language</th>
+    <th>Version</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Greywolf character sheet</td>
+    <td>English</td>
+    <td>0.1</td>
+    <td><a href="https://raw.githack.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/sheet%20eng%20pdf.pdf">Download</a></td>
+  </tr>
+  <tr>
+    <td>Greywolf character sheet</td>
+    <td>Russian</td>
+    <td>0.1</td>
+    <td><a href="https://raw.githack.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/sheet.pdf">Russian version</a></td>
+  </tr>
+</table>
+</div>
             ]]>
         </content>
     </entry>
